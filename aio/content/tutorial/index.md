@@ -63,7 +63,7 @@ The following diagram captures all of the navigation options.
   <img src='generated/images/guide/toh/nav-diagram.png' alt="View navigations">
 </figure>
 
-Here's the app in action:
+Here's the app in actions:
 
 <figure>
   <img src='generated/images/guide/toh/toh-anim.gif' alt="Tour of Heroes in Action">
